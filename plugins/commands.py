@@ -17,7 +17,7 @@ import base64
 logger = logging.getLogger(__name__)
 
 BATCH_FILES = {}
-REQ = int(https://t.me/+JTbFiQDNKbtmYWU1)
+REQ = https://t.me/+JTbFiQDNKbtmYWU1
 
 @Client.on_message(filters.command("start") & filters.incoming)
 async def start(client, message):
