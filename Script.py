@@ -143,13 +143,21 @@ Nᴀᴍᴇ - {}"""
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
-    OWNER_INFO = """
-<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
-    
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
-
+    OWNER_INFO = """<b>╭───────᛬ ᴏᴡɴᴇʀ ɪɴғᴏ ᛬────────╮
+├╼ ɴᴀᴍᴇ :  <a href='https://graph.org/file/b3131c63e8922b4d280e4.png'>ᴀᴀᴅʜɪ</a>
+├╼ ᴍʏ ғᴀᴄᴇ :  <a href='https://www.instagram.com/p/CmuQZDZBNMi/?igshid=OGQ2MjdiOTE='>ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ</a>
+├╼ ᴘʟᴀᴄᴇ :  <a href='https://graph.org/Kottayam---Kerala---India-08-19'>ᴋᴏᴛᴛᴀʏᴀᴍ | ᴋᴇʀᴀʟᴀ | ɪɴᴅɪᴀ</a>
+├╼ ᴋɴᴏᴡɴ ʟᴀɴɢs : ᴍᴀʟᴀʏᴀʟᴀᴍ | ᴇɴɢʟɪsʜ | ᴛᴀᴍɪʟ
+├╼ ᴄᴏɴᴛᴀᴄᴛ ɴᴏ :  <a href='https://t.me/AboutAadhi/35'>ᴅᴏɴᴛ sʜᴀʀᴇ</a>
+├╼ ʀᴇʟɪɢɪᴏɴ ᴄᴀsᴛ : ɪ | ᴍ
+├╼ ᴡᴇᴀᴋɴᴇss : - <a href='https://t.me/AboutAadhi/17'>ᴍ ᴇ ᴏ ɪ ᴛ ᴏ s ɴ</a>
+├╼ sᴛᴀᴛᴜs :  <a href='https://t.me/AboutAadhi/20'>ᴄᴏᴍᴍɪᴛᴛᴇᴅ</a>
+├╼ ᴀɢᴇ : ᴊᴜsᴛ ᴄᴀʟᴄᴜʟᴀᴛᴇ
+├╼ ʟᴇᴠᴇʟ :  <a href='https://graph.org/file/d83c0976d3a4daf85d5a9.jpg'>ғɪʀsᴛ ʏᴇᴀʀ ʙᴛᴇᴄʜ ᴇᴄᴇ</a>
+├╼ ғᴀᴠ ᴄᴏʟᴏᴜʀ : ʙʟᴀᴄᴋ | ɢʀᴇᴇɴ | ᴄʏᴀɴ
+├╼ ɴʙ :  <a href='https://graph.org/-08-18-2800'>ᴇᴀsʏ ᴛᴏ ᴄʀʏ</a> -  <a href='https://graph.org/file/7f89de2391cca56c88241.jpg'>ᴇᴀsʏ ᴛᴏ ʟᴀᴜɢʜ</a>                         
+                <a href='https://graph.org/file/1eb52814b39035b7bc298.jpg'>ʜᴀʀᴅ ᴛᴏ ʟᴇᴀᴠᴇ</a> -  <a href='https://graph.org/file/63fc96fd989012fbe99e6.jpg'>ʜᴀʀᴅ ᴛᴏ ғᴏʀɢᴏᴛ</a>
+╰────────────────────────╯</b>"""
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
 
