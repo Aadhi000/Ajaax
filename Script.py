@@ -251,6 +251,6 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 📅 ᴅᴀᴛᴇ : <code>{}</code>
 ⏰ ᴛɪᴍᴇ : <code>{}</code>
 🌐 ᴛɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-👨🏻‍💻 ᴅᴇᴠ : <a href=https://t.me/AboutAadhi/8>ᴀᴀᴅʜɪ</a>, disable_web_page_preview=True</b>"""
+👨🏻‍💻 ᴅᴇᴠ : ᴀᴀᴅʜɪ</b>"""
 
     
