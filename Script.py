@@ -5,7 +5,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
+    ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
 ✯ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/AboutAadhi'>ᴀᴀᴅʜɪ</a>
 ✯ ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ✯ ʟᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
@@ -251,6 +251,6 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 📅 ᴅᴀᴛᴇ : <code>{}</code>
 ⏰ ᴛɪᴍᴇ : <code>{}</code>
 🌐 ᴛɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-👨🏻‍💻 ᴅᴇᴠ : <a href=https://t.me/AboutAadhi/8>ᴀᴀᴅʜɪ</a></b>"""
+👨🏻‍💻 ᴅᴇᴠ : <a href=https://t.me/AboutAadhi/8>ᴀᴀᴅʜɪ</a>, disable_web_page_preview=True</b>"""
 
     
