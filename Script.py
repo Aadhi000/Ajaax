@@ -1,9 +1,8 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
+    START_TXT = """<b>ʜᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ ɪs <a href=https://t.me/{}>{}</a>, ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ʜʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ 😍</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
-Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
+ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
 ✯ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/AboutAadhi'>ᴀᴀᴅʜɪ</a>
@@ -198,12 +197,8 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
-<b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/HixxerBot">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯</b>"""
+• <b><i>{file_name} » {file_size} › [ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/AboutAadhi)</i></b>  
+• <b>᧒ꪮỉ᭢ ᭢ꪮ᭙ ›› [ꪑ᭙ ꪊᩏᦔꪖᡶꫀɀ](https://t.me/MWUpdatez)</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
