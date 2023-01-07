@@ -124,6 +124,10 @@ async def next_page(bot, query):
             ]
             for file in files
         ]
+
+    btn.append(
+    [InlineKeyboardButton(text="🍃 ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ 🍃", url='https://t.me/howtotnink/449')]
+)
     try:
         if settings['auto_delete']:
             btn.insert(0, 
@@ -135,19 +139,10 @@ async def next_page(bot, query):
             )
    
 
-    if 0 < offset <= 6:
-        off_set = 0
-    elif offset == 0:
-        off_set = None
-    else:
-        off_set = offset - 6
-    # How to Download button
+    
 
-    btn.append(
-    [InlineKeyboardButton(text="🍃 ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ 🍃", url='https://t.me/howtotnink/449')]
-)
-
-        
+    
+    
                 
     except KeyError:
         grpid = await active_connection(str(query.message.from_user.id))
