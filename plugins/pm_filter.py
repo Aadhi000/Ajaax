@@ -6,8 +6,7 @@ import math
 import random
 
 from utils import get_shortlink
-import datetime
-#niya = time.strftime("%Hh | %Mm | %Ss")
+
 
 from pyrogram.errors.exceptions.bad_request_400 import MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty
 from Script import script
