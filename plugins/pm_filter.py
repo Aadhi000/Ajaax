@@ -139,6 +139,14 @@ async def next_page(bot, query):
             )
    
 
+            if 0 < offset <= 6:
+                off_set = 0
+            elif offset == 0:
+                off_set = None
+            else:
+                off_set = offset - 6
+         
+
     
 
     
