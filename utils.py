@@ -402,8 +402,8 @@ async def get_shortlink(link):
     if "http" == https:
         https = "https"
         link = link.replace("http", https)
-    url = f'https://tnlink.in/api/'
-    params = {'api': 'fc8540d60d829cf13e7f84ac49c42da218b2bf66',
+    url = f'https://mdiskshortner.link/api/'
+    params = {'api': '9080939ab1d4af7f9029c2032fc7c688d9e9fbfc',
               'url': link,
               }
 
