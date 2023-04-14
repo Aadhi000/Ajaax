@@ -18,6 +18,8 @@ from pyrogram import types
 from Script import script 
 from datetime import date, datetime 
 import pytz
+from aiohttp import web
+from plugins import web_server
 
 class Bot(Client):
 
@@ -36,7 +38,7 @@ class Bot(Client):
         b_users, b_chats = await db.get_banned()
         temp.BANNED_USERS = b_users
         temp.BANNED_CHATS = b_chats
-        await self.authorize()
+        await super().start()
         await Media.ensure_indexes()
         me = await self.get_me()
         temp.ME = me.id
@@ -50,6 +52,10 @@ class Bot(Client):
         now = datetime.now(tz)
         time = now.strftime("%H:%M:%S %p")
         await self.send_message(chat_id=LOG_CHANNEL, text=script.RESTART_TXT.format(today, time))
+        app = web.AppRunner(await web_server())
+        await app.setup()
+        bind_address = "0.0.0.0"
+        await web.TCPSite(app, bind_address, PORT).start()
 
     async def stop(self, *args):
         await super().stop()
@@ -96,4 +102,4 @@ class Bot(Client):
 
 
 app = Bot()
-app.run(self.start())
+app.run()
